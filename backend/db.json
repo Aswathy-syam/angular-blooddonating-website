@@ -1,0 +1,20 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "rajesh",
+      "mobile": "8976234156",
+      "blood": "A+",
+      "image": "https://media.istockphoto.com/id/1277971639/photo/portrait-of-a-smiling-man-of-indian-ethnicity.jpg?s=612x612&w=0&k=20&c=eeQSwYbeD18pihB9xkZ62JJC92qZSwa2X3-nj9tu2yE=",
+      "place": "Kochi"
+    },
+    {
+      "id": "2",
+      "name": "nived",
+      "mobile": "9023456781",
+      "blood": "B+",
+      "image": "https://media.istockphoto.com/id/1256127007/photo/close-up-portrait-of-his-he-nice-attractive-glad-cheerful-cheery-guy-pointing-forefinger.webp?b=1&s=170667a&w=0&k=20&c=3wxx_FOljVpB6BTWS6F78g6dBU42jrzuInOJrtEBQ0U=",
+      "place": "thrissur"
+    }
+  ]
+}
